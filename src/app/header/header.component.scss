@@ -1,0 +1,23 @@
+nav {
+
+    background-color: skyblue;
+    padding: 50px;
+}
+
+nav ul {
+
+    float: right;
+    list-style-type: none;
+}
+
+ul li {
+
+    display: inline-block;
+    padding-left: 10px;
+}
+
+li a {
+
+    text-decoration: none;
+    cursor: pointer;
+}
